@@ -44,14 +44,14 @@ export default function socialMedia() {
         </a>
       ) : null}
 
-      {socialMediaLinks.gitlab ? (
+      {socialMediaLinks.telegram ? (
         <a
-          href={socialMediaLinks.gitlab}
-          className="icon-button gitlab"
+          href={socialMediaLinks.telegram}
+          className="icon-button telegram"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <i className="fab fa-gitlab"></i>
+          <i className="fab fa-telegram"></i>
           <span></span>
         </a>
       ) : null}
