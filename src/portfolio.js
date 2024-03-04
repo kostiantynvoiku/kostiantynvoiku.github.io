@@ -69,39 +69,39 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "python",
+      skillName: "Python",
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "html-5",
+      skillName: "HTML5",
       fontAwesomeClassname: "fab fa-html5"
     },
     {
-      skillName: "css3",
+      skillName: "CSS3",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "cypress",
+      skillName: "Cypress",
       fontAwesomeClassname: "fas fa-microscope"
     },
     {
-      skillName: "robot-framework",
+      skillName: "Robot Framework",
       fontAwesomeClassname: "fas fa-robot"
     },
     {
-      skillName: "pytest",
+      skillName: "Pytest",
       fontAwesomeClassname: "fas fa-vial"
     },
     {
-      skillName: "selenium",
+      skillName: "Selenium",
       fontAwesomeClassname: "fas fa-window-maximize"
     },
     {
-      skillName: "jira",
+      skillName: "Jira",
       fontAwesomeClassname: "fab fa-jira"
     },
     {
-      skillName: "github",
+      skillName: "GitHub",
       fontAwesomeClassname: "fab fa-github"
     },
     {
@@ -109,7 +109,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-jenkins"
     },
     {
-      skillName: "sql-database",
+      skillName: "SQL Databases",
       fontAwesomeClassname: "fas fa-database"
     },
     {
@@ -117,15 +117,15 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-chart-bar"
     },
     {
-      skillName: "gherkin",
+      skillName: "Gherkin",
       fontAwesomeClassname: "fas fa-solar-panel"
     },
     {
-      skillName: "bash",
+      skillName: "Bash",
       fontAwesomeClassname: "fas fa-scroll"
     },
     {
-      skillName: "docker",
+      skillName: "Docker",
       fontAwesomeClassname: "fab fa-docker"
     }
   ],
