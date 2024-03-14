@@ -5,13 +5,6 @@ import {Fade} from "react-reveal";
 import StyleContext from "../../contexts/StyleContext";
 
 export default function StartupProject() {
-  function openUrlInNewTab(url) {
-    if (!url) {
-      return;
-    }
-    var win = window.open(url, "_blank");
-    win.focus();
-  }
 
   const {isDark} = useContext(StyleContext);
   if (!bigProjects.display) {
@@ -31,7 +24,7 @@ export default function StartupProject() {
           >
             {bigProjects.subtitle}
           </p>
-          <div className="projects-container" style={{ height: '40vh', paddingBottom: '0px' }}>
+          <div className="projects-container" style={{ height: '60vh', paddingBottom: '0px' }}>
             <iframe
               src='https://widgets.sociablekit.com/linkedin-recommendations/iframe/25381304'
               title='LinkedIn Recommendations'

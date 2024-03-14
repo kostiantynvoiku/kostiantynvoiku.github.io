@@ -33,8 +33,9 @@ export default function Greeting() {
                   />        
                 </div>
                 {" "}
-                {greeting.title}{" "}
+                {greeting.hello}
                 <span className="wave-emoji">{emoji("👋")}</span>
+                <div>{greeting.title}</div>
               </h1>
               <p
                 className={

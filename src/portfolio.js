@@ -21,7 +21,8 @@ const illustration = {
 
 const greeting = {
   username: "Kostiantyn Voiku",
-  title: "Hi all, I'm Kostiantyn",
+  hello: "Hello, ",
+  title: "I'm Kostiantyn",
   subTitle: emoji(
     "ISTQB Certified QA Engineer with 8+ years of experience. Proficient in Test Automation processes and deeply passionate about quality and testing, consistently driving excellence across all facets of software testing. Eager to contribute expertise and leadership to drive continuous improvement in a dynamic team environment."
   ),
