@@ -46,7 +46,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "QA ENGINEERING ENTHUSIAST, PASSIONATE ABOUT TESTING AND SOFTWARE QUALITY.",
+  subTitle: "AS A QA ENGINEERING ENTHUSIAST, I'M DEEPLY COMMITTED TO TESTING AND ENSURING SOFTWARE QUALITY. ",
   skills: [
     emoji(
       "⚡ Design a cutting-edge test automation architecture for web applications on all test levels;"
@@ -217,8 +217,8 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "Testimonials 🤝",
+  subtitle: "SOME FEEDBACKS FROM COLLEAGUES AND CLIENTS:",
   projects: [
     {
       //image: require("./assets/images/saayaHealthLogo.webp"),
@@ -233,7 +233,7 @@ const bigProjects = {
       ]
     }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Achievement Section
@@ -253,7 +253,7 @@ const achievementSection = {
         {name: "Verify certificate: 21-CTFL-3483-SEETB", url: "http://scr.istqb.org/?name=Voiku&number=21-CTFL-3483-SEETB"}
       ]
     }
-  ],
+  ], 
   display: true // Set false to hide this section, defaults to true
 };
 
