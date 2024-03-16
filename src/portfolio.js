@@ -237,8 +237,8 @@ const workExperiences = {
         "Conducted in-depth data analysis to identify potential areas for improvement, ensuring the efficiency of testing processes;",
         "Developed and implemented comprehensive test cases, focusing on both manual and automated testing;",
         "Wrote and optimized queries for data analysis and reporting;",
-        "Collaborated closely with IT, Marketing and Sales departments to ensure alignment across business goals."
-
+        "Collaborated closely with IT, Marketing and Sales departments to ensure alignment across business goals;",
+        "Spearheaded continuous improvement initiatives aimed at enhancing data processes and driving efficiency."
       ]
     }
   ]
