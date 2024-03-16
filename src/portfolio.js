@@ -184,25 +184,62 @@ const techStack = {
 // Work experience section
 
 const workExperiences = {
-  display: false, //Set it to true to show workExperiences Section
+  display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      //companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "QA Tech Lead, Test Manager",
+      company: "StarOfService",
+      companylogo: require("./assets/images/starofservice_logo.png"),
+      date: "September 2017 – Present",
+      desc: "I played a pivotal role in establishing and leading the QA Team, driving the development of comprehensive testing processes:",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Led initiatives to create a robust test infrastructure and designed cutting-edge test automation architectures for web applications across all testing levels;",
+        "Developed, maintained, and executed automated test scripts using industry-standard testing frameworks and tools;",
+        "Integrated automated tests into CI/CD pipelines to enable continuous testing and delivery of software updates;",
+        "Collaborating closely with cross-functional teams, I ensured alignment between QA processes and overall business objectives to enhance web application monitoring for early detection of quality issues."
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      //companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "QA Enginner",
+      company: "StarOfService, Int.",
+      companylogo: require("./assets/images/sos_old_logo.png"),
+      date: "March 2016 – September 2017",
+      desc: "I joined the newly established team dedicated to expanding its product globally. A short list of activities I was responsible for:",
+      descBullets: [
+        "Conducted various types of testing including smoke, exploratory, functional, regression, UI, localization, and black box testing;",
+        "Developed, executed, and maintained test cases to ensure comprehensive test coverage;",
+        "Built and executed automation tests to enhance test efficiency and scalability;",
+        "Operated in an Agile software development environment to support iterative and incremental development practices;",
+        "Collaborated effectively with Product Managers, Developers, and DevOps teams to ensure alignment and synergy across project objectives."
+      ]
+    },
+    {
+      role: "QA Engineer",
+      company: "QA TECH LAB",
+      companylogo: require("./assets/images/qa-tech-lab.png"),
+      date: "August 2015 – March 2016",
+      desc: "I worked on diverse outsourced projects, primarily focusing on testing activities of web and mobile applications, including:",
+      descBullets: [
+        "Developed comprehensive test cases tailored to project requirements;",
+        "Generated detailed bug reports to facilitate efficient issue resolution;",
+        "Conducted rigorous testing of web applications to ensure functionality, usability, and compatibility across different browsers;",
+        "Performed thorough testing of web applications to verify their performance, stability, and user experience;",
+        "Performed mobile applications on both Android and iOS platforms to validate their functionality, responsiveness, and compatibility with diverse devices."
+      ]
+    },
+    {
+      role: "Data Engineer",
+      company: "Illichivske Ins.",
+      companylogo: require("./assets/images/illichivske.png"),
+      date: "August 2010 – August 2015",
+      desc: "In my role as a Data Engineer, I contributed to a dynamic team focused on leveraging data-driven insights to propel business growth, where I undertook the following responsibilities:",
+      descBullets: [
+        "Conducted in-depth data analysis to identify potential areas for improvement, ensuring the efficiency of testing processes;",
+        "Developed and implemented comprehensive test cases, focusing on both manual and automated testing;",
+        "Wrote and optimized queries for data analysis and reporting;",
+        "Collaborated closely with IT, Marketing and Sales departments to ensure alignment across business goals."
+
+      ]
     }
   ]
 };
