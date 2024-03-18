@@ -34,9 +34,9 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/kostiantynvoiku",
-  linkedin: "https://www.linkedin.com/in/kostiantynvoiku/",
   gmail: "kostiantyn.voiku@gmail.com",
+  linkedin: "https://www.linkedin.com/in/kostiantynvoiku/",
+  github: "https://github.com/kostiantynvoiku",
   telegram: "https://t.me/konstantinxv",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
