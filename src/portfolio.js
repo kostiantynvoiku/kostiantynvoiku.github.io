@@ -27,7 +27,7 @@ const greeting = {
     "ISTQB Certified QA Engineer with 8+ years of experience. Proficient in Test Automation processes and deeply passionate about quality and testing, consistently driving excellence across all facets of software testing. Eager to contribute expertise and leadership to drive continuous improvement in a dynamic team environment."
   ),
   resumeLink:
-    "tets", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1hwyMDEC9-qqJG1sFnd3ozAbrAAqobEfA/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -235,7 +235,7 @@ const workExperiences = {
       desc: "In my role as a Data Engineer, I contributed to a dynamic team focused on leveraging data-driven insights to propel business growth, where I undertook the following responsibilities:",
       descBullets: [
         "Conducted in-depth data analysis to identify potential areas for improvement, ensuring the efficiency of testing processes;",
-        "Developed and implemented comprehensive test cases, focusing on both manual and automated testing;",
+        "Developed and implemented comprehensive test cases, focusing on back-end services and database testing;",
         "Wrote and optimized queries for data analysis and reporting;",
         "Collaborated closely with IT, Marketing and Sales departments to ensure alignment across business goals;",
         "Spearheaded continuous improvement initiatives aimed at enhancing data processes and driving efficiency."
