@@ -74,6 +74,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-python"
     },
     {
+      skillName: "Bash",
+      fontAwesomeClassname: "devicon-bash-plain"
+    },
+    {
       skillName: "HTML5",
       fontAwesomeClassname: "fab fa-html5"
     },
@@ -83,52 +87,56 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Cypress",
-      fontAwesomeClassname: "fas fa-microscope"
+      fontAwesomeClassname: "devicon-cypressio-plain"
+    },
+    {
+      skillName: "Pytest",
+      fontAwesomeClassname: "devicon-pytest-plain"
+    },
+    {
+      skillName: "Cucumber",
+      fontAwesomeClassname: "devicon-cucumber-plain"
+    },
+    {
+      skillName: "Selenium",
+      fontAwesomeClassname: "devicon-selenium-original"
     },
     {
       skillName: "Robot Framework",
       fontAwesomeClassname: "fas fa-robot"
     },
     {
-      skillName: "Pytest",
-      fontAwesomeClassname: "fas fa-vial"
+      skillName: "Git",
+      fontAwesomeClassname: "devicon-git-plain"
     },
     {
-      skillName: "Selenium",
-      fontAwesomeClassname: "fas fa-window-maximize"
-    },
-    {
-      skillName: "Jira",
-      fontAwesomeClassname: "fab fa-jira"
-    },
-    {
-      skillName: "GitHub",
-      fontAwesomeClassname: "fab fa-github"
+      skillName: "GitHub Actions",
+      fontAwesomeClassname: "devicon-githubactions-plain"
     },
     {
       skillName: "Jenkins",
       fontAwesomeClassname: "fab fa-jenkins"
     },
     {
-      skillName: "SQL Databases",
-      fontAwesomeClassname: "fas fa-database"
+      skillName: "MySQL",
+      fontAwesomeClassname: "devicon-mysql-original"
+    },
+    {
+      skillName: "PostgreSQL",
+      fontAwesomeClassname: "devicon-postgresql-plain"
     },
     {
       skillName: "GraphQL",
-      fontAwesomeClassname: "fas fa-chart-bar"
-    },
-    {
-      skillName: "Gherkin",
-      fontAwesomeClassname: "fas fa-solar-panel"
-    },
-    {
-      skillName: "Bash",
-      fontAwesomeClassname: "fas fa-scroll"
+      fontAwesomeClassname: "devicon-graphql-plain"
     },
     {
       skillName: "Docker",
       fontAwesomeClassname: "fab fa-docker"
-    }
+    },
+    {
+      skillName: "Jira",
+      fontAwesomeClassname: "fab fa-jira"
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };

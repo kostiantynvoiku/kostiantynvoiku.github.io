@@ -5,6 +5,7 @@ import {skillsSection} from "../../portfolio";
 export default function SoftwareSkill() {
   return (
     <div>
+      <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
       <div className="software-skills-main-div">
         <ul className="dev-icons">
           {skillsSection.softwareSkills.map((skills, i) => {
