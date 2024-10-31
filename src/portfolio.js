@@ -195,11 +195,24 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Senior QA Automation Engineer",
+      company: "Qodeup",
+      companylogo: require("./assets/images/qodeup_logo.png"),
+      date: "May 2024 – Present",
+      desc: "I designed and implemented test automation solutions to ensure long-term scalability to evolving project requirements.",
+      descBullets: [
+        "Architected and implemented a robust test automation framework for web apps, including UI, API & integration tests;",
+        "Designed and configured a comprehensive test automation environment, including test data management, test execution, and reporting mechanisms;",
+        "Implemented CI/CD pipelines to trigger and execute automation tests, to streamline the delivery process and improve product quality;",
+        "Collaborate closely with cross-functional teams to implement comprehensive testing strategies, including E2E, component, and API testing, to ensure product quality and reliability."
+      ]
+    },
+    {
       role: "QA Tech Lead, Test Manager",
       company: "StarOfService",
       companylogo: require("./assets/images/starofservice_logo.png"),
-      date: "September 2017 – Present",
-      desc: "I played a pivotal role in establishing and leading the QA Team, driving the development of comprehensive testing processes:",
+      date: "Sep 2017 – Apr 2024",
+      desc: "I played a pivotal role in establishing and leading the QA Team, driving the development of comprehensive testing processes.",
       descBullets: [
         "Led initiatives to create a robust test infrastructure and designed cutting-edge test automation architectures for web applications across all testing levels;",
         "Developed, maintained, and executed automated test scripts using industry-standard testing frameworks and tools;",
@@ -211,7 +224,7 @@ const workExperiences = {
       role: "QA Enginner",
       company: "StarOfService, Int.",
       companylogo: require("./assets/images/sos_old_logo.png"),
-      date: "March 2016 – September 2017",
+      date: "Mar 2016 – Sep 2017",
       desc: "I joined the newly established team dedicated to expanding its product globally. A short list of activities I was responsible for:",
       descBullets: [
         "Conducted various types of testing including smoke, exploratory, functional, regression, UI, localization, and black box testing;",
@@ -223,9 +236,9 @@ const workExperiences = {
     },
     {
       role: "QA Engineer",
-      company: "QA TECH LAB",
+      company: "QA Tech Lab",
       companylogo: require("./assets/images/qa-tech-lab.png"),
-      date: "August 2015 – March 2016",
+      date: "Aug 2015 – Mar 2016",
       desc: "I worked on diverse outsourced projects, primarily focusing on testing activities of web and mobile applications, including:",
       descBullets: [
         "Developed comprehensive test cases tailored to project requirements;",
@@ -235,20 +248,6 @@ const workExperiences = {
         "Performed mobile applications on both Android and iOS platforms to validate their functionality, responsiveness, and compatibility with diverse devices."
       ]
     },
-    {
-      role: "Data Engineer",
-      company: "Illichivske Ins.",
-      companylogo: require("./assets/images/illichivske.png"),
-      date: "August 2010 – August 2015",
-      desc: "In my role as a Data Engineer, I contributed to a dynamic team focused on leveraging data-driven insights to propel business growth, where I undertook the following responsibilities:",
-      descBullets: [
-        "Conducted in-depth data analysis to identify potential areas for improvement, ensuring the efficiency of testing processes;",
-        "Developed and implemented comprehensive test cases, focusing on back-end services and database testing;",
-        "Wrote and optimized queries for data analysis and reporting;",
-        "Collaborated closely with IT, Marketing and Sales departments to ensure alignment across business goals;",
-        "Spearheaded continuous improvement initiatives aimed at enhancing data processes and driving efficiency."
-      ]
-    }
   ]
 };
 
