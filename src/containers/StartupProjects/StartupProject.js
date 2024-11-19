@@ -26,8 +26,8 @@ export default function StartupProject() {
           </p>
           <div className="projects-container" style={{ height: '60vh', paddingBottom: '0px' }}>
             <iframe
-              // https://www.sociablekit.com/app/users/widgets/update_embed/25381304#basic
-              src='https://widgets.sociablekit.com/linkedin-recommendations/iframe/25381304'
+              // https://www.sociablekit.com/app/users/widgets/update_embed/25489361#basic
+              src='https://widgets.sociablekit.com/linkedin-recommendations/iframe/25489361'
               title='LinkedIn Recommendations'
               frameborder='0'
               width='100%'
